@@ -57,7 +57,6 @@ import com.example.unscramble.ui.theme.UnscrambleTheme
 
 @Composable
 fun GameScreen(
-
 ) {
     val mediumPadding = dimensionResource(R.dimen.padding_medium)
 
