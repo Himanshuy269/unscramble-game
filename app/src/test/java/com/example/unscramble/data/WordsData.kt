@@ -33,7 +33,6 @@ val allWords: Set<String> =
         "motorcycle",
         "cauliflower"
     )
-
 /**
  * Maps words to their lengths. Each word in allWords has a unique length. This is required since
  * the words are randomly picked inside GameViewModel and the selection is unpredictable.
